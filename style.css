@@ -133,6 +133,7 @@ section {
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
+    padding-top: 40%;
     background-repeat: no-repeat;
     margin-left: 30px;
     
@@ -794,7 +795,8 @@ form .send-btn:hover {
     .hero {
         height: 90vh;
         width: 90%;
-        background-position: center;
+        background-position: end;
+        
     }
    
 }
