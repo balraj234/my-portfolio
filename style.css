@@ -817,7 +817,7 @@ form .send-btn:hover {
 }
 
 @media (max-width:1240px){
-    
+  
 .about {
     grid-template-columns: 1fr;
     grid-area: 2rem;
@@ -841,6 +841,8 @@ form .send-btn:hover {
 }
 
 @media (max-width:950px){
+   
+  
     :root  {
         --h1-font:3.5rem;
     }
@@ -877,9 +879,12 @@ form .send-btn:hover {
     width: 100%;
 }
 
+
+
 }
 
 @media (max-width:470px) {
+   
     .text-animate h1{
         width: 100%;
         font-size: small;
